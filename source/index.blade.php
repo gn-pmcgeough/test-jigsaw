@@ -3,6 +3,7 @@
 @section('body')
 <div class="p-8">
     <h1 class="text-3xl font-bold">Hello world!</h1>
+    <h1 class="text-3xl font-bold">Change here!</h1>
     <h1>{{ $page->author }}</h1>
 
     <h1>Blog</h1>
